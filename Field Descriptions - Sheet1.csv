@@ -1,0 +1,41 @@
+Fields,Description
+Dur. (ms),Total Duration of the xDR (in ms)
+MSISDN/Number,MS International PSTN/ISDN Number of mobile - customer number
+Avg RTT DL (ms),Average Round Trip Time measurement Downlink direction (msecond)
+Avg RTT UL (ms),Average Round Trip Time measurement Uplink direction (msecond)
+Avg Bearer TP DL (kbps),Average Bearer Throughput for Downlink (kbps) - based on BDR duration
+Avg Bearer TP UL (kbps),Average Bearer Throughput for uplink (kbps) - based on BDR duration
+Total DL (Bytes),Data volume (in Bytes) received by the MS during this session (IP layer + overhead)
+Total UL (Bytes),Data volume (in Bytes) sent by the MS during this session (IP layer + overhead)
+HTTP DL (Bytes),HTTP data volume (in Bytes) received by the MS during this session
+HTTP UL (Bytes),HTTP data volume (in Bytes) sent by the MS during this session
+Social Media DL (Bytes),Social Media data volume (in Bytes) received by the MS during this session
+Social Media UL (Bytes),Social Media data volume (in Bytes) sent by the MS during this session
+YouTube DL (Bytes),YouTube data volume (in Bytes) received by the MS during this session
+YouTube UL (Bytes),YouTube data volume (in Bytes) sent by the MS during this session
+Netflix DL (Bytes),Netflix data volume (in Bytes) received by the MS during this session
+Netflix UL (Bytes),Netflix data volume (in Bytes) sent by the MS during this session
+Google DL (Bytes),Google data volume (in Bytes) Received by the MS during this session
+Google UL (Bytes),Google data volume (in Bytes) sent by the MS during this session
+Activity Duration DL (ms),Activity Duration for downlink (ms) - excluding periods of inactivity > 500 ms
+Activity Duration UL (ms),Activity Duration for uplink (ms) - excluding periods of inactivity > 500 ms
+Cumulated Sessions Duration DL (ns),Cumulated Sessions duration for downlink (ns)
+Cumulated Sessions Duration UL (ns),Cumulated Sessions duration for uplink (ns)
+DNS DL (Bytes),DNS data volume (in Bytes) Received by the MS during this session
+DNS UL (Bytes),DNS data volume (in Bytes) sent by the MS during this session
+Email DL (Bytes),Email data volume (in Bytes) Received by the MS during this session
+Email UL (Bytes),Email data volume (in Bytes) sent by the MS during this session
+Gaming DL (Bytes),Gaming data volume (in Bytes) Received by the MS during this session
+Gaming UL (Bytes),Gaming data volume (in Bytes) sent by the MS during this session
+Handset Manufacturer,Handset manufacturer 
+Subscriber Country,Operator country of the subscriber 
+Subscriber Group,Operator group of the subscriber 
+Subscriber Operator,Operator of the subscriber
+TCP DL Retrans. Vol (Bytes),TCP volume of Downlink packets detected as retransmitted (bytes)
+TCP DL Vol. (Bytes),TCP volume transferred in Downlink direction (bytes)
+TCP UL Retrans. Vol (Bytes),TCP volume of Uplink packets detected as retransmitted (bytes)
+TCP UL Vol. (Bytes),TCP volume transferred in Uplink direction (bytes)
+UDP DL Vol. (Bytes),UDP volume transferred in Downlink direction (bytes)
+UDP UL Vol. (Bytes),UDP volume transferred in Uplink direction (bytes)
+WAP DL (Bytes),WAP data volume (in Bytes) received by the MS during this session
+WAP UL (Bytes),WAP data volume (in Bytes) sent by the MS during this session
